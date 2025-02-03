@@ -7,6 +7,14 @@ async function callWorker(){
     app.get('/workers',(req, res)=>{
         res.json(worker)
     })
+    app.get('*', (req, res) => {
+        const validRoutes = ['/workers'];// ם
+        if (validRoutes.includes(req.path)) {
+            res.send(` route exists: ${req.path}`);
+        } else {
+            res.status(404).send('Not Found The Path');
+        }
+    });
 app.get('worker/query',(req,res) =>{
    const name=req.query.name.toLowerCase()
    const resultWorker= workers.filter(worker => worker.name.toLowerCase().include(name))
