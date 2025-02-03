@@ -1,0 +1,48 @@
+[
+
+    {
+        "id": 1,
+        "name": "Yosef",
+        "phone": "0534180493",
+        "email": "b@fjihi.com",
+        "role": "senior Manager",
+        "department": "programmer",
+        "dateOfBegin": "10-12-2000"
+    },
+    {
+        "id": 2,
+        "name": "Nachum",
+        "phone": "0504128555",
+        "email": "b@fjihi.com",
+        "role": "team Manager",
+        "department": "programmer",
+        "dateOfBegin": "10-12-2012"
+    },
+    {
+        "id": 3,
+        "name": "Menachem",
+        "phone": "0548536547",
+        "email": "b@i.com",
+        "role": "employee",
+        "department": "Cyber",
+        "dateOfBegin": "12-12-2004"
+    },
+    {
+        "id": 4,
+        "name": "Liron",
+        "phone": "0527669925",
+        "email": "b@f.com",
+        "role": "employee",
+        "department": "QA",
+        "dateOfBegin": "12-12-2022"
+    },
+    {
+        "id": 5,
+        "name": "Shmuel",
+        "phone": "05000000",
+        "email": "b@n.com",
+        "role": "employee",
+        "department": "Cyber",
+        "dateOfBegin": "12-11-2004"
+    }
+]

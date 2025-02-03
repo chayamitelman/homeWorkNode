@@ -1,0 +1,39 @@
+[
+    {
+        "name": "avi",
+        "famelyname": "coen",
+        "dateOfBirth": 32,
+        "status": "w"
+    },
+    {
+        "name": "moshe",
+        "famelyname": "levi",
+        "dateOfBirth": 19,
+        "status": "w"
+    },
+    {
+        "name": "aron",
+        "famelyname": "golan",
+        "dateOfBirth": 20,
+        "status": "Nw"
+    },
+    {
+        "name": "shlomo",
+        "famelyname": "dermer",
+        "dateOfBirth": 36,
+        "status": "Nw"
+    },
+    {
+        "name": "dan",
+        "famelyname": "daitsh",
+        "dateOfBirth": 48,
+        "status": "Nw"
+    },
+    {
+        "name": "binyamin",
+        "famelyname": "levin",
+        "dateOfBirth": 18,
+        "status": "w"
+    }
+  
+]
